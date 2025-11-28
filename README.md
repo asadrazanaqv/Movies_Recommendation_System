@@ -59,4 +59,5 @@ The app uses the following approach:
 
 ---
 
-This README ensures that anyone with the project files can set up and run the **Movie Recommendation System** locally even if the large pickle file is not uploaded to GitHub.
+<img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/b477d8e3-9f03-4df0-a425-980a86e56459" />
+
